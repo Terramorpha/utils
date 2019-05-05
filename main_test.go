@@ -1,4 +1,4 @@
-package escaping
+package utils
 
 import (
 	"fmt"
