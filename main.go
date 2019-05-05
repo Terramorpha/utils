@@ -1,4 +1,4 @@
-package terminalcolor
+package utils
 
 import (
 	"fmt"

@@ -1,4 +1,4 @@
-package escaping
+package utils
 
 func ParseLine(s string, separator rune) []string {
 	var (
